@@ -6,11 +6,9 @@ texdir = theboss/textures
 joint = jointRoot = Hips
 joint = jointLean = Spine
 joint = jointNeck = Neck
-joint = jointEyeLeft = L_Eye_Geo
 joint = jointLeftHand = LeftHand
 joint = jointHead = HeadTop_End
 joint = jointRightHand = RightHand
-joint = jointEyeRight = R_Eye_Geo
 freeJoint = LeftArm
 freeJoint = LeftForeArm
 freeJoint = RightArm
