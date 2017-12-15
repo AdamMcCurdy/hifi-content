@@ -6,9 +6,15 @@ texdir = theboss/textures
 joint = jointRoot = Hips
 joint = jointLean = Spine
 joint = jointNeck = Neck
+joint = jointEyeLeft = L_Eye_Geo
 joint = jointLeftHand = LeftHand
 joint = jointHead = HeadTop_End
 joint = jointRightHand = RightHand
+joint = jointEyeRight = R_Eye_Geo
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
 bs = JawOpen = MouthOpen = 0.7
 bs = JawFwd = JawForeward = 1
 bs = EyeOpen_R = EyesWide_Right = 1
