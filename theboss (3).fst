@@ -7,9 +7,7 @@ joint = jointNeck = Neck
 joint = jointHead = Head
 joint = jointLean = Spine
 joint = jointLeftHand = LeftHand
-joint = jointEyeLeft = L_Eye_Geo
 joint = jointRightHand = RightHand
-joint = jointEyeRight = R_Eye_Geo
 joint = jointRoot = Hips
 freeJoint = LeftArm
 freeJoint = LeftForeArm
